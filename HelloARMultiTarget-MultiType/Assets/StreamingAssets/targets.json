@@ -1,0 +1,12 @@
+{
+  "images" :
+  [
+    {
+      "image" : "idback.jpg",
+      "name" : "idback",
+      "size" : [8.56, 5.4],
+      "uid" : "uid-string, should NOT duplicate",
+      "meta" : "what ever string you like."
+    }
+  ]
+}
