@@ -1,5 +1,7 @@
 # WeCodeMiniGame
 
+# Actualización 19/02/2019:  He añadido al repositorio un segundo proyecto, por si nos da tiempo a hacer 2 juegos usando 2 técnicas distintas de AR  :D
+
 Hola, en este taller intentaremos hacer un pequeño minijuego con realidad aumentada en Unity. 
 
 Sería genial si todos fuesemos con unos pasos realizados para que nos de tiempo a todo y vaya mucho más fluido
